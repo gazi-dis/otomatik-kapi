@@ -23,7 +23,7 @@
 - Daha sonra + that yazan yere tıklayalım.
 - Arama kısmına web hooks yazalım ve girelim.
 - Make a web request ile devam edelim.
-- Url kısmına http://139.59.206.133/uygulama token kodu buraya gelecek/update/V1?value=1 ile dolduralım. (Token kodunu yazmayı unutmayınız)
+- Url kısmını http://139.59.206.133/uygulama token kodu buraya gelecek/update/V1?value=1 ile dolduralım. (Token kodunu yazmayı unutmayınız)
 - Method kısmı GET, Content-Type kısmı text/plain olacak şekilde giriyoruz.
 - Create action butonuna tıklayarak tetiğimizi oluşturuyoruz.
 - Daha sonra şemada yer alan bağlantıları yaparak projemizi test ediyoruz.
