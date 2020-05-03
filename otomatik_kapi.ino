@@ -20,7 +20,7 @@ void setup()
   pinMode (guc, OUTPUT);  //Güç Ledi
   pinMode (role, OUTPUT);  //Röle
   pinMode (bildirim, OUTPUT); //Bildirim Ledi
-  pinMode (13, OUTPUT); //İnternet Ledi
+  pinMode (internet, OUTPUT); //İnternet Ledi
   digitalWrite(guc,1);
   Serial.begin(9600);
 
